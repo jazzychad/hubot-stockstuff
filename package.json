@@ -1,0 +1,22 @@
+{
+    "name": "hubot-stockstuff",
+    "version": "0.0.1",
+    "description": "hubot script for stock related things",
+    "author": "Chad Etzel <jazzychad@gmail.com>",
+    "dependencies": {
+        "ya-csv": "0.9.4"
+    },
+    "main": "index.coffee",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/user/hubot-stockstuff.git"
+    },
+    "keywords": [
+        "hubot",
+        "stocks"
+    ],
+    "license": "MIT",
+    "engines": {
+        "node": "*"
+    }
+}
